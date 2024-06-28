@@ -1,11 +1,7 @@
 <div id="header" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5044&pause=1004&center=true&random=false&width=444&height=45&lines=hi%2C+this's+debaleena." alt="Typing SVG" /></a>
-</div>
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=647944&center=true&vCenter=true&random=false&width=435&lines=hi%2C+this's+debaleena.;-+designer+turned+developer+-;+one+pixel+at+a+time." alt="Typing SVG" /></a>
+</div>            
 <br>
-
 
 ## About Me :
 - Final year student at KIIT, India.
