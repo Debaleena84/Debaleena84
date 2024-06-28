@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/68BuPwhY3moYZWdfJy/giphy.gif?cid=ecf05e47vd3mwtoztfbbahie9ncnz2scxb59elvgw9xzo52i&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="350" height="250"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5044&pause=1004&center=true&random=false&width=444&height=45&lines=hi%2C+this's+debaleena." alt="Typing SVG" /></a>
 </div>
 
 <p  align="center">
